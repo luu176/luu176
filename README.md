@@ -26,16 +26,6 @@ Feel free to check out my projects and connect with me.
       <td>DuckyScript™</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/luu176/Hak5-OMG-Payloads">Hak5-OMG-Payloads</a></td>
-      <td>Forked from UberGuidoZ/Hak5-OMG-Payloads</td>
-      <td>HTML</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/luu176/usbrubberducky-payloads">usbrubberducky-payloads</a></td>
-      <td>Forked from hak5/usbrubberducky-payloads</td>
-      <td>PowerShell</td>
-    </tr>
-    <tr>
       <td><a href="https://github.com/luu176/SLE4442-Card-Manager">SLE4442-Card-Manager</a></td>
       <td>SLE4442 Card Manager</td>
       <td>Python</td>
@@ -58,11 +48,6 @@ Feel free to check out my projects and connect with me.
     <tr>
       <td><a href="https://github.com/luu176/Basic-XSS-Checker">Basic-XSS-Checker</a></td>
       <td>Checks XSS vulnerability against search queries in websites using 3 different techniques.</td>
-      <td>Python</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/luu176/FindMyFlipper">FindMyFlipper</a></td>
-      <td>Forked from MatthewKuKanich/FindMyFlipper, turns your FlipperZero into an effective tracking device</td>
       <td>Python</td>
     </tr>
   </tbody>
