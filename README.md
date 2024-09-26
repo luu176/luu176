@@ -8,9 +8,6 @@ I'm a passionate **Cybersecurity Enthusiast** and a dedicated student, always on
 
 Feel free to check out my projects and connect with me. 
 
-
-[![GitHub Badge](https://img.shields.io/badge/GitHub-Luu176-blue?style=flat&logo=github)](https://github.com/luu176)
-
 <table>
   <thead>
     <tr>
