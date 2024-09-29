@@ -8,7 +8,7 @@ I'm a passionate **Cybersecurity Enthusiast** and a dedicated student, always on
 
 Feel free to check out my projects and connect with me. 
 
-You can find my PGP key [https://github.com/luu176/luu176/blob/main/publickey.asc](here).
+You can find my PGP key [here](https://github.com/luu176/luu176/blob/main/publickey.asc).
 
 <table>
   <thead>
