@@ -10,6 +10,8 @@ Feel free to check out my projects and connect with me.
 
 You can find my PGP key [here](https://gist.github.com/luu176/9dc33f527a077e030eb9c7f86787316b)
 
+![](https://komarev.com/ghpvc/?username=luu176)
+
 <table>
   <thead>
     <tr>
