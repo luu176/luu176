@@ -42,8 +42,8 @@ You can find my PGP key [here](https://gist.github.com/luu176/9dc33f527a077e030e
       <td>Python</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/luu176/Antenna-Size-Calculator">Antenna-Size-Calculator</a></td>
-      <td>Takes frequency and calculates possible antenna sizes</td>
+      <td><a href="https://github.com/luu176/rubberducky-scripts">Rubber Ducky payloads</a></td>
+      <td>A collection of my rubber ducky scripts</td>
       <td>Python</td>
     </tr>
     <tr>
