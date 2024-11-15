@@ -22,23 +22,12 @@ You can find my PGP key [here](https://gist.github.com/luu176/9dc33f527a077e030e
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/luu176/NTLM-Stealer">NTLM-Stealer</a></td>
-      <td>Uses DuckyScript™ 3.0 to grab NTLM Hashes from Windows machine through discord webhook</td>
-      <td>DuckyScript™</td>
-    </tr>
-    <tr>
+      <td><a href="https://github.com/luu176/ESP32-Airtag">ESP32-Airtag</a></td>
+      <td>Clone an existing AirTag onto an ESP32</td>
+      <td>Python</td>
+       <tr>
       <td><a href="https://github.com/luu176/SLE4442-Card-Manager">SLE4442-Card-Manager</a></td>
       <td>SLE4442 Card Manager</td>
-      <td>Python</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/luu176/Discord-Status-Changer">Discord-Status-Changer</a></td>
-      <td>Changes your Discord status every 1-2 seconds to whatever you want in an automated fashion.</td>
-      <td>Python</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/luu176/ESP32-Airtag">ESP32-Airtag</a></td>
-      <td>Clone an AirTag onto an ESP32</td>
       <td>Python</td>
     </tr>
     <tr>
@@ -49,6 +38,17 @@ You can find my PGP key [here](https://gist.github.com/luu176/9dc33f527a077e030e
     <tr>
       <td><a href="https://github.com/luu176/Basic-XSS-Checker">Basic-XSS-Checker</a></td>
       <td>Checks XSS vulnerability against search queries in websites using 3 different techniques.</td>
+      <td>Python</td>
+    </tr>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/luu176/NTLM-Stealer">NTLM-Stealer</a></td>
+      <td>Uses DuckyScript™ 3.0 to grab NTLM Hashes from Windows machine through discord webhook</td>
+      <td>DuckyScript™</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/luu176/Discord-Status-Changer">Discord-Status-Changer</a></td>
+      <td>Changes your Discord status every 1-2 seconds to whatever you want in an automated fashion.</td>
       <td>Python</td>
     </tr>
   </tbody>
