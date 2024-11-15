@@ -10,8 +10,6 @@ Feel free to check out my projects and connect with me.
 
 You can find my PGP key [here](https://gist.github.com/luu176/9dc33f527a077e030eb9c7f86787316b)
 
-![](https://komarev.com/ghpvc/?username=luu176)
-
 <table>
   <thead>
     <tr>
@@ -24,16 +22,16 @@ You can find my PGP key [here](https://gist.github.com/luu176/9dc33f527a077e030e
     <tr>
       <td><a href="https://github.com/luu176/ESP32-Airtag">ESP32-Airtag</a></td>
       <td>Clone an existing AirTag onto an ESP32</td>
-      <td>Python</td>
+      <td>C, C++, Python</td>
        <tr>
       <td><a href="https://github.com/luu176/SLE4442-Card-Manager">SLE4442-Card-Manager</a></td>
       <td>SLE4442 Card Manager</td>
-      <td>Python</td>
+      <td>Python 3</td>
     </tr>
     <tr>
       <td><a href="https://github.com/luu176/rubberducky-scripts">Rubber Ducky payloads</a></td>
       <td>A collection of my rubber ducky scripts</td>
-      <td>Python</td>
+      <td>DuckyScript</td>
     </tr>
     <tr>
       <td><a href="https://github.com/luu176/Basic-XSS-Checker">Basic-XSS-Checker</a></td>
@@ -44,7 +42,7 @@ You can find my PGP key [here](https://gist.github.com/luu176/9dc33f527a077e030e
     <tr>
       <td><a href="https://github.com/luu176/NTLM-Stealer">NTLM-Stealer</a></td>
       <td>Uses DuckyScript™ 3.0 to grab NTLM Hashes from Windows machine through discord webhook</td>
-      <td>DuckyScript™</td>
+      <td>DuckyScript</td>
     </tr>
     <tr>
       <td><a href="https://github.com/luu176/Discord-Status-Changer">Discord-Status-Changer</a></td>
