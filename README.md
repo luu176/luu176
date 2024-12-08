@@ -6,7 +6,7 @@ I'm a passionate **Cybersecurity Enthusiast** and a dedicated student, always on
 - 👨‍💻 **Self-Taught Scripter:** I craft my own scripts to automate tasks and explore vulnerabilities. Python, Javascript, C and more below are my playgrounds.
 - 💡 **Open Source Contributor:** I love sharing my work and learning from the community. Collaboration and knowledge-sharing are my core values.
 
-Feel free to check out my projects and connect with me. 
+Feel free to check out my projects and connect with me. Discord: @luu176
 
 You can find my PGP key [here](https://gist.github.com/luu176/9dc33f527a077e030eb9c7f86787316b)
 
