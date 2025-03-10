@@ -1,6 +1,6 @@
 # Hello, I'm Luu! 👋
 
-I'm a passionate **Cybersecurity Enthusiast** and a dedicated student, always on the lookout for new vulnerabilities and exploits 👀. I love diving into the depths of security, scripting my own tools, and contributing to the community.
+I'm a passionate 16-year-old **Cybersecurity Enthusiast** and a dedicated student, always on the lookout for new vulnerabilities and exploits 👀. I love diving into the depths of security, scripting my own tools, and contributing to the community.
 
 - 🔐 **Passionate about Cybersecurity:** I enjoy dissecting systems and finding creative ways to secure or exploit them.
 - 👨‍💻 **Self-Taught Scripter:** I craft my own scripts to automate tasks and explore vulnerabilities. Python, Javascript, C and more below are my playgrounds.
