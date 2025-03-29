@@ -55,6 +55,11 @@ You can find my PGP key [here](https://gist.github.com/luu176/9dc33f527a077e030e
       <td>Changes your Discord status every 1-2 seconds to whatever you want in an automated fashion.</td>
       <td>Python</td>
     </tr>
+   <tr>
+      <td><a href="https://github.com/luu176/CRTM">CRTM Madrid Public Transport Card Reader</a></td>
+      <td>Read data from Madrid's public transport NFC card (Consorcio Regional de Transportes de Madrid, CRTM). The script extracts relevant information such as card info, and ticket details.</td>
+      <td>Python</td>
+    </tr>
   </tbody>
 </table>
 
