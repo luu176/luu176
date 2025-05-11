@@ -60,6 +60,11 @@ You can find my PGP key [here](https://gist.github.com/luu176/9dc33f527a077e030e
       <td>Read data from Madrid's public transport NFC card (Consorcio Regional de Transportes de Madrid, CRTM). The script extracts relevant information such as card info, and ticket details.</td>
       <td>Python</td>
     </tr>
+  <tr>
+      <td><a href="https://github.com/luu176/Antenna-Size-Calculator">Antenna Size Calculator</a></td>
+      <td>Takes frequency, such as 433 mhz, 137.1 Mhz, etc. And calculates possible antenna sizes</td>
+      <td>Python</td>
+    </tr>
   </tbody>
 </table>
 
