@@ -1,14 +1,26 @@
-# Hello, I'm Luu! 👋
+# Luu
 
-I'm a passionate **Cybersecurity Enthusiast** and a dedicated student, always on the lookout for new vulnerabilities and exploits. I love diving into the depths of security, scripting my own tools, and contributing to the community.
+Cybersecurity researcher and student focused on hardware hacking, RFID/NFC reverse engineering, and access control systems. I build tools, dissect protocols, and publish my findings as open source.
 
-- 🔐 **Passionate about Cybersecurity:** I enjoy dissecting systems and finding creative ways to secure or exploit them.
-- 👨‍💻 **Self-Taught Scripter:** I craft my own scripts to automate tasks and explore vulnerabilities. Python, Javascript, C and more below are my playgrounds.
-- 💡 **Open Source Contributor:** I love sharing my work and learning from the community. Collaboration and knowledge-sharing are my core values.
+**DEF CON 33 speaker** — *Hung out to dry: Airing the dirty laundry of stored value washing cards* (RF Village). [Watch the talk on YouTube](https://www.youtube.com/watch?v=ucHO499ie2c).
 
-Feel free to check out my projects and connect with me. Discord: @luu176
+### What I work on
 
-You can find my PGP key [here](https://gist.github.com/luu176/9dc33f527a077e030eb9c7f86787316b)
+- Reverse engineering of public transit and smart card application layer
+- Hardware projects targeting ESP32 and Flipper Zero
+- Offensive security tooling and automation in Python, C/C++, and JavaScript
+- Open source contributions and technical write-ups for the security community
+
+### Contact
+
+- Discord: `@luu176`
+- PGP key: [available here](https://gist.github.com/luu176/9dc33f527a077e030eb9c7f86787316b)
+
+---
+
+### Selected Projects
+
+A few things I've built — feel free to take a look:
 
 <table>
   <thead>
@@ -23,65 +35,73 @@ You can find my PGP key [here](https://gist.github.com/luu176/9dc33f527a077e030e
       <td><a href="https://github.com/luu176/ESP32-Airtag">ESP32-Airtag</a></td>
       <td>Clone an existing AirTag onto an ESP32</td>
       <td>C, C++, Python</td>
-    </tr>  
+    </tr>
     <tr>
       <td><a href="https://github.com/luu176/Metroflip">Metroflip</a></td>
-      <td>Metroflip is a multi-protocol Flipper Zero app to read metro cards from around the world</td>
+      <td>Multi-protocol Flipper Zero app for reading metro cards from around the world</td>
       <td>C</td>
     </tr>
     <tr>
       <td><a href="https://github.com/luu176/SLE4442-Card-Manager">SLE4442-Card-Manager</a></td>
-      <td>SLE4442 Card Manager</td>
+      <td>Manager for SLE4442 memory cards</td>
       <td>Python 3</td>
     </tr>
     <tr>
-      <td><a href="https://github.com/luu176/rubberducky-scripts">Rubber Ducky payloads</a></td>
-      <td>A collection of my rubber ducky scripts</td>
+      <td><a href="https://github.com/luu176/T-Mobilitat">T-Mobilitat Reader</a></td>
+      <td>Reads Barcelona's T-Mobilitat public transport card via the official API and a USB NFC reader. Includes reverse engineering notes on the card's data structure and API.</td>
+      <td>Python</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/luu176/CRTM">CRTM Madrid Public Transport Card Reader</a></td>
+      <td>Extracts card information and ticket details from Madrid's CRTM NFC public transport card</td>
+      <td>Python</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/luu176/rubberducky-scripts">Rubber Ducky Payloads</a></td>
+      <td>Collection of DuckyScript payloads</td>
+      <td>DuckyScript</td>
+    </tr>
+    <tr>
+      <td><a href="https://github.com/luu176/NTLM-Stealer">NTLM-Stealer</a></td>
+      <td>DuckyScript 3.0 payload for capturing NTLM hashes from a Windows machine over a Discord webhook</td>
       <td>DuckyScript</td>
     </tr>
     <tr>
       <td><a href="https://github.com/luu176/Basic-XSS-Checker">Basic-XSS-Checker</a></td>
-      <td>Checks XSS vulnerability against search queries in websites using 3 different techniques.</td>
+      <td>Tests search query inputs for XSS vulnerabilities using three detection techniques</td>
       <td>Python</td>
     </tr>
-    </tr>
     <tr>
-      <td><a href="https://github.com/luu176/NTLM-Stealer">NTLM-Stealer</a></td>
-      <td>Uses DuckyScript™ 3.0 to grab NTLM Hashes from Windows machine through discord webhook</td>
-      <td>DuckyScript</td>
+      <td><a href="https://github.com/luu176/Antenna-Size-Calculator">Antenna Size Calculator</a></td>
+      <td>Calculates viable antenna lengths for a given frequency (e.g. 433 MHz, 137.1 MHz)</td>
+      <td>Python</td>
     </tr>
     <tr>
       <td><a href="https://github.com/luu176/Discord-Status-Changer">Discord-Status-Changer</a></td>
-      <td>Changes your Discord status every 1-2 seconds to whatever you want in an automated fashion.</td>
-      <td>Python</td>
-    </tr>
-    <tr>
-      <td><a href="https://github.com/luu176/T-Mobilitat">T-Mobilitat Reader</a></td>
-      <td>Uses T-Mobilitat's API to read its public transport card and display whatever info is available in the card (Also requires a USB NFC reader). This repository also details reverse engineering of T-Mobilitat card data structure and api</td>
-      <td>Python</td>
-    </tr>
-   <tr>
-      <td><a href="https://github.com/luu176/CRTM">CRTM Madrid Public Transport Card Reader</a></td>
-      <td>Read data from Madrid's public transport NFC card (Consorcio Regional de Transportes de Madrid, CRTM). The script extracts relevant information such as card info, and ticket details.</td>
-      <td>Python</td>
-    </tr>
-  <tr>
-      <td><a href="https://github.com/luu176/Antenna-Size-Calculator">Antenna Size Calculator</a></td>
-      <td>Takes frequency, such as 433 mhz, 137.1 Mhz, etc. And calculates possible antenna sizes</td>
+      <td>Automates rotating Discord status messages</td>
       <td>Python</td>
     </tr>
   </tbody>
 </table>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=luu176" alt="luu176" /></a> </p>
+---
+
+### Languages and tools
+
+C · C++ · C# · Python · JavaScript · Node.js · Go · Java · HTML · CSS · Arduino · Linux · .NET
 
 <p align="left">
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="36" height="36"/></a>
+  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="36" height="36"/></a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="36" height="36"/></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="36" height="36"/></a>
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="36" height="36"/></a>
+  <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="36" height="36"/></a>
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="36" height="36"/></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+---
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=luu176&show_icons=true&locale=en&layout=compact" alt="luu176" /></p>
-
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=luu176&" alt="luu176" /></p>
