@@ -2,7 +2,6 @@
 
 Cybersecurity researcher and student focused on hardware hacking, RFID/NFC reverse engineering, and access control systems. I build tools, dissect protocols, and publish my findings as open source.
 
-**DEF CON 33 speaker** — *Hung out to dry: Airing the dirty laundry of stored value washing cards* (RF Village). [Watch the talk on YouTube](https://www.youtube.com/watch?v=ucHO499ie2c).
 
 ### What I work on
 
